@@ -4,7 +4,6 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 # DBInspector; Cross Verification of Protein Information
@@ -167,9 +166,7 @@ dbi --help
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/philohippo/DBInspector.svg?style=for-the-badge
 [contributors-url]: https://gitlab-sysprog.informatik.uni-bonn.de/bschultz/group04/-/graphs/master
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/philohippo/DBInspector.svg?style=for-the-badge
 [issues-url]: https://gitlab-sysprog.informatik.uni-bonn.de/bschultz/group04/-/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
